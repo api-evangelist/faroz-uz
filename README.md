@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Faroz is an educational platform for children, offering age‑appropriate learning, upbringing, motivation and entertainment resources. It provides courses, videos, stories and interactive exercises all in one place, tailored to each child’s age and development stage.
+Faroz is an educational platform offering age‑appropriate learning, upbringing, motivation and entertainment content for children. It provides courses, videos, stories and interactive exercises all in one place, tailored to each child’s age.
 
-**Areas:** Company
+**Areas:** Education · Children · Learning Platform · Courses · Uzbek
 
 ## Faroz on APIs.io
 
@@ -74,7 +74,7 @@ Everything profiled for Faroz is published on APIs.io rather than in this reposi
 
 ### APIs (1)
 
-- [Faroz API](https://apis.io/apis/faroz-uz/faroz-api/) — Educational platform API for Faroz
+- [Faroz API](https://apis.io/apis/faroz-uz/faroz-api/) — Educational platform API (Edu App) discovered but does not belong to Faroz.
 
 ### Published properties
 
@@ -97,11 +97,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 12.2** — emerging · rubric 0.27.0 · scored 2026-11-07
+**Kin Score 12.6** — emerging · rubric 0.27.0 · scored 2026-11-08
 
 | Facet | Score |
 |---|---|
-| Discoverability | 44.6 |
+| Discoverability | 53.6 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
@@ -135,7 +135,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 19.6** — Education & Research
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/faroz-uz/](https://apis.io/providers/faroz-uz/).
 
